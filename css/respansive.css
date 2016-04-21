@@ -5,8 +5,34 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 .about-lit{background:#3ccbe4 ;height:auto;}
 .about-define{text-align:center;}
-.about-launch-smalltext{text-align:center;padding:10px;}	
-}
+.about-launch-smalltext{text-align:center;padding:10px;}
+.what-important-bg{background:#c4c4c4; height:auto;}
+.what-important	{text-align:center;}
+.what-simply-text{text-align:center;padding:10px;}
+.client-text-logo{text-align:center;}
+.about-number-bg{background:#443d37;height:auto;}
+.itdefence-area{text-align:center;}
+.itdefence-smalltext{text-align:center;}
+.box1{width:100%;}
+.box2{width:100%;}
+.box3{width:100%;}
+.box4{width:100%;}
+.box5{width:100%;}
+.bg-color-black{height:auto;float:left;margin-bottom:20px;}
+.services-text{text-align:center;}
+.service-smallone{text-align:center;padding:10px;}
+.service-bg{background:#dc6f21;height:auto;}
+.expertise-bg{background:#666;height:auto;}
+.carousel-indicators{margin-bottom:25px;}
+.career-text{text-align:center;}
+.career-text-small{text-align:center;padding:10px;}
+.news-bg{background:#1eb8c5;height:auto;}
+.event-news{text-align:center;}
+.event-small-text{text-align:center;padding:10px;}
+.contact-bg{height:auto !important;}
+.contact-adds{text-align:center;}
+.socialbtns, .socialbtns ul, .socialbtns li{float:none;}
+.search-filter{margin-left:0px;}
 
 
 @media only screen 

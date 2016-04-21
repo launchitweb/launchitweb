@@ -147,12 +147,12 @@ li a.active{
 
 .itdefence-area{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:9%  !important;}
 .itdefence-smalltext{text-align:left;font-family:calibri;font-size:22px !important;color:#1c1c1c !important;}
-.links-launch a{text-decoration:underline; color:#000 !important;font-weight:bold;}
+.links-launch a{text-decoration:underline; color:#383838 !important;font-weight:bold;}
 .what-import-text{margin-top:5% !important;}
 .links-launch1 a{text-decoration:underline; color:#00b9c7 !important;font-weight:bold;}
 
 .client-sliding{margin-top:2%;margin-bottom:2%;}
-.lit-color{color:#fff !important;font-size:21px !important;}
+.lit-color{color:#fff !important;font-size:23px !important;}
 .contact-bg{background:#373737 !important;height:400px !important;}
 .contact-adds{margin:0px; padding:0px; font-family:calibri; color:#fff;font-size:22px;margin-top:5%;}
 .contact-link a{color:#00b9c7; text-decoration:underline;}
@@ -168,10 +168,10 @@ li a.active{
 }
 .event-small-text{text-align: left;
 font-family: calibri;
-font-size: 23px !important;
-color: #1c1c1c !important;margin-top:5% !important;line-height:30px;}
+font-size: 24px !important;
+color: #383838 !important;margin-top:5% !important;line-height:40px;}
 .career-text{text-align: left;
-font-family: calibri;
+font-family: rockwell;
 font-style: italic;
 font-size: 30px !important;
 color: #fd8224 !important;
@@ -179,15 +179,28 @@ margin-top: 6% !important;}
 
 .career-text-small{text-align: left;
 font-family: calibri;
-font-size: 23px !important;
-color: #1c1c1c !important;
+font-size: 24px !important;
+color: #4a4949 !important;
 margin-top: 4% !important;
 line-height: 30px;}
+
+.event-news{text-align: left;
+font-family: rockwell;
+font-style: italic;
+font-size: 30px !important;
+color: #fff !important;
+margin-top: 8% !important;}
 
 .testimonials{margin:0px;padding:0px; font-family:calibri;font-size:30px;font-style:italic;color:#fff;text-align:center;padding-top:10%;opacity:0.9;}
 .testmonial-small{margin:0px;padding:0px; font-family:calibri;font-size:24px;font-style:italic;color:#fff;text-align:center;padding-top:6%;opacity:0.9;}
 .service-view-text{font-family:calibri;font-size:12px;}
 .team-slide{margin-top:7%;}
+.what-important{text-align: left;font-family:rockwell;font-size: 28px !important;color: #fd8224 !important;}
+.what-simply-text{text-align: left;
+    font-family: calibri;
+    font-size: 24px !important;
+    color: #1c1c1c !important;line-height:40px;
+}
 
 .carousel-indicators li {
     display: inline-block;
@@ -202,7 +215,7 @@ line-height: 30px;}
     border-radius:0px;
 }
 
-
+.search-filter{margin-left:59%;}
 
 .box-search{
  /* margin: 5px auto;*/
@@ -222,7 +235,7 @@ line-height: 30px;}
 .container-4 input#search{
   width: 284px;
   height: 30px;
-  background: #e6e6e6;
+  background: #f1efef;
   border: none;
   font-size: 10pt;
   float: left;
@@ -468,7 +481,8 @@ line-height: 30px;}
 .what-main-image{margin:0px; padding:0px; height:197px;}
 .about-number-bg{margin:0px;padding:0px;background:url(../img/number-bg.jpg) no-repeat;height:447px;width:100%;/*border-top: solid 50px #00b9c7;*/}
 .bg-color{margin:0px;padding:0px;width:100%;height:50px;background:#00b9c7;}
-.bg-color-black{margin:0px;padding:0px;width:100%;height:230px;background:#000;opacity: 0.8;}
+.bg-color-black{margin:0px;padding:0px;width:100%;height:230px;background: rgb(32, 32, 32); 
+      background: rgba(32, 32, 32, 0.8);}
 
 .box-main{margin:0px;padding:0px;}
 .box1{margin:0px; padding:0px;width:20%;height:auto;float:left;}
@@ -483,7 +497,8 @@ font-weight: bold;}
 .about-office-small-text{margin:0px;padding:0px;font-size:14px;color:#f2efdf;text-align:center;font-family: calibri;padding-right: 10px;
 padding-left: 10px;}
 .team-bg{background:url(../img/team-bg.jpg) no-repeat;height:607px;width:100%;}
-.services-text{text-align:left;font-family:calibri;font-style:italic;font-size:30px !important;color:#fff !important;margin-top:4%  !important;}
+.services-text{text-align:left;font-family:rockwell;font-style:italic;font-size:29px !important;color:#fff !important;margin-top:4%  !important;}
+.service-smallone{text-align: left;font-family: calibri;font-size: 24px !important;color: #383838 !important;line-height: 38px;}
 
 .service-effect-text{color:#fff; font-family:calibri;font-style:italic;font-weight:bold;font-size:20px;}
 .soft-icon{padding: 27% 23% 23%;}
@@ -1205,7 +1220,8 @@ responsive area
 #quote-carousel 
 {
   padding: 0 10px 30px 10px;
-  margin-top: 30px;background:#666 !important;opacity: 0.7;min-height:430px;color:#fff;border:solid 1px #00b9c7;
+  margin-top: 30px;min-height:430px;color:#fff;border:solid 1px #006a73;background: rgb(32, 32, 32); 
+      background: rgba(32, 32, 32, 0.8);
 }
 
 /* Control buttons  */
