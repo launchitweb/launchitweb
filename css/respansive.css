@@ -31,9 +31,9 @@ and (max-device-width : 480px) {
 .event-small-text{text-align:center;padding:10px;}
 .contact-bg{height:auto !important;}
 .contact-adds{text-align:center;}
-.socialbtns, .socialbtns ul, .socialbtns li{float:none;}
+.socialbtns, .socialbtns ul, .socialbtns li{float:left;}
 .search-filter{margin-left:0px;}
-
+.second-slide-text{font-size:20px;line-height:25px;padding-top:30%;}
 
 @media only screen 
 and (min-device-width : 360px) 
