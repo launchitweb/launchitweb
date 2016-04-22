@@ -480,10 +480,13 @@ margin-top: 8% !important;}
 
 
 
-.about-lit{background:url(../img/tealsquaresfade_up.jpg) no-repeat;height:311px;width:100%;padding-top:40px;}
-.what-important-bg{background:url(../img/about-important-bg.jpg) no-repeat ;height:539px;}
+.about-lit{background:url(../img/tealsquaresfade_up.jpg) no-repeat;height:311px;width:100%;padding-top:40px;	background-position: center ;
+background-color: #51d2e4 ;}
+.what-important-bg{background:url(../img/about-important-bg.jpg) no-repeat ;height:539px;background-position: center ;
+background-color: #b3b3b3 ;}
 .what-main-image{margin:0px; padding:0px; height:197px;}
-.about-number-bg{margin:0px;padding:0px;background:url(../img/number-bg.jpg) no-repeat;height:447px;width:100%;/*border-top: solid 50px #00b9c7;*/}
+.about-number-bg{margin:0px;padding:0px;background:url(../img/number-bg.jpg) no-repeat;height:447px;width:100%;background-position: center ;
+background-color: #433c36/*border-top: solid 50px #00b9c7;*/}
 .bg-color{margin:0px;padding:0px;width:100%;height:50px;background:#00b9c7;}
 .bg-color-black{margin:0px;padding:0px;width:100%;height:230px;background: rgb(32, 32, 32); 
       background: rgba(32, 32, 32, 0.8);}
@@ -500,7 +503,8 @@ font-family: arial;}
 font-weight: bold;}
 .about-office-small-text{margin:0px;padding:0px;font-size:14px;color:#f2efdf;text-align:center;font-family: calibri;padding-right: 10px;
 padding-left: 10px;}
-.team-bg{background:url(../img/team-bg.jpg) no-repeat;height:607px;width:100%;}
+.team-bg{background:url(../img/team-bg.jpg) no-repeat;height:607px;width:100%;background-position: center ;
+background-color: #01c2cf ;}
 .services-text{text-align:left;font-family:rockwell;font-style:italic;font-size:29px !important;color:#fff !important;margin-top:4%  !important;margin-bottom:0px;}
 .service-smallone{text-align: left;font-family: calibri;font-size: 24px !important;color: #383838 !important;line-height: 38px;}
 
@@ -551,7 +555,8 @@ padding-left: 10px;}
 	position: absolute;
 }
 
-.service-bg{background:url(../img/service-bg.jpg) no-repeat ; height:767px;padding-top:60px;}
+.service-bg{background:url(../img/service-bg.jpg) no-repeat ; height:767px;padding-top:60px;background-position: center ;
+background-color: #c96721 ;}
 
 
 /*expertise section*/
@@ -643,11 +648,13 @@ padding-left: 10px;}
 }
 
 
-.expertise-bg{background:url(../img/expertice-bg.jpg) no-repeat; height:793px;padding-top:50px;}
+.expertise-bg{background:url(../img/expertice-bg.jpg) no-repeat; height:793px;padding-top:50px;background-position: center ;
+background-color: #383b3d ;}
 
 /*career section*/
 
-.career-bg{background:url(../img/career-bg.jpg) no-repeat; height:612px;padding-top: 12px;}
+.career-bg{background:url(../img/career-bg.jpg) no-repeat; height:612px;padding-top: 12px;background-position: center ;
+background-color: #e9e9e9 ;}
 
 
 
@@ -656,7 +663,8 @@ padding-left: 10px;}
 /*news section*/
 
 
-.news-bg{background:url(../img/news-bg.jpg) no-repeat ; height:483px;padding-top: 15px;}
+.news-bg{background:url(../img/news-bg.jpg) no-repeat ; height:483px;padding-top: 15px;background-position: center ;
+background-color: #1eb8c5 ;}
 
 
 
