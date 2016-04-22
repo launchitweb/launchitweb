@@ -175,7 +175,7 @@ font-family: rockwell;
 font-style: italic;
 font-size: 30px !important;
 color: #fd8224 !important;
-margin-top: 6% !important;}
+margin-top: 4% !important;}
 
 .career-text-small{text-align: left;
 font-family: calibri;
@@ -391,6 +391,9 @@ margin-top: 8% !important;}
 	color: #42b3e5;
 	margin-top: 50px;
 }
+
+
+
 .about h4{
 	font-size: 24px;
 	color: #737373;
@@ -476,7 +479,7 @@ margin-top: 8% !important;}
 
 
 
-.about-lit{background:url(../img/tealsquaresfade_up.jpg) no-repeat;height:311px;width:100%;}
+.about-lit{background:url(../img/tealsquaresfade_up.jpg) no-repeat;height:311px;width:100%;padding-top:35px;}
 .what-important-bg{background:url(../img/about-important-bg.jpg) no-repeat ;height:539px;}
 .what-main-image{margin:0px; padding:0px; height:197px;}
 .about-number-bg{margin:0px;padding:0px;background:url(../img/number-bg.jpg) no-repeat;height:447px;width:100%;/*border-top: solid 50px #00b9c7;*/}
@@ -497,7 +500,7 @@ font-weight: bold;}
 .about-office-small-text{margin:0px;padding:0px;font-size:14px;color:#f2efdf;text-align:center;font-family: calibri;padding-right: 10px;
 padding-left: 10px;}
 .team-bg{background:url(../img/team-bg.jpg) no-repeat;height:607px;width:100%;}
-.services-text{text-align:left;font-family:rockwell;font-style:italic;font-size:29px !important;color:#fff !important;margin-top:4%  !important;}
+.services-text{text-align:left;font-family:rockwell;font-style:italic;font-size:29px !important;color:#fff !important;margin-top:4%  !important;margin-bottom:0px;}
 .service-smallone{text-align: left;font-family: calibri;font-size: 24px !important;color: #383838 !important;line-height: 38px;}
 
 .service-effect-text{color:#fff; font-family:calibri;font-style:italic;font-weight:bold;font-size:20px;}
@@ -547,7 +550,7 @@ padding-left: 10px;}
 	position: absolute;
 }
 
-.service-bg{background:url(../img/service-bg.jpg) no-repeat ; height:767px;}
+.service-bg{background:url(../img/service-bg.jpg) no-repeat ; height:767px;padding-top:40px;}
 
 
 /*expertise section*/
@@ -639,7 +642,7 @@ padding-left: 10px;}
 }
 
 
-.expertise-bg{background:url(../img/expertice-bg.jpg) no-repeat; height:793px;}
+.expertise-bg{background:url(../img/expertice-bg.jpg) no-repeat; height:793px;padding-top:35px;}
 
 /*career section*/
 
@@ -1326,3 +1329,5 @@ responsive area
 /*18-04-2016-4 hours*/
 /*19-04-2016 -4 hours*/
 /*20-04-2016 - 5 hours*/
+/*21-04-2016 - 6 hours*/
+/*http://launchitweb.github.io/#home*/
