@@ -28,7 +28,7 @@
 }
 
 .elastislide-horizontal {
-	padding: 10px 40px;
+	padding: 10px 120px;
 }
 
 .elastislide-vertical {
@@ -87,9 +87,9 @@
 
 .elastislide-wrapper nav span {
 	position: absolute;
-	background: #ddd url(../images/nav.png) no-repeat 4px 3px;
-	width: 23px;
-	height: 23px;
+	background:url(../images/nav1.png) no-repeat 4px 0px;
+	width: 60px;
+	height: 60px;
 	border-radius: 50%;
 	text-indent: -9000px;
 	cursor: pointer;
@@ -101,7 +101,7 @@
 }
 
 .elastislide-horizontal nav span {
-	top: 50%;
+	top: 45%;
 	left: 10px;
 	margin-top: -11px;
 }
@@ -116,7 +116,7 @@
 .elastislide-horizontal nav span.elastislide-next {
 	right: 10px;
 	left: auto;
-	background-position: 4px -17px;
+	background-position: 8px -57px;
 }
 
 .elastislide-vertical nav span.elastislide-next {

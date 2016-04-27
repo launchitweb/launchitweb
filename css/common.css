@@ -18,8 +18,8 @@
 }
 
 .ch-grid li {
-	width: 220px;
-	height: 220px;
+	width: 185px;
+	height: 185px;
 	display: inline-block;
-	margin: 20px;
+	margin: 8px;margin-left:30px;
 }

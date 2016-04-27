@@ -37,6 +37,10 @@ and (max-device-width : 480px) {
 .contact-info h3{text-align:center;}
 .contact-form h3{text-align:center;}
 .footer p{text-align:center;}
+.elastislide-horizontal {
+    padding: 10px 69px !important;
+}
+
 }
 
 

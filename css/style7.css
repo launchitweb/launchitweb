@@ -41,7 +41,7 @@
 
 .ch-info .ch-info-front {
 	/*box-shadow: inset 0 0 0 10px rgba(0,0,0,0.3);*/
-	border: solid 7px #fff;
+	border: solid 5px #fff;
 }
 
 .ch-info .ch-info-back {
@@ -75,8 +75,8 @@ background:#e67728;
 	letter-spacing: 2px;
 	font-size: 24px;
 	margin: 0 15px;
-	padding: 60px 0 0 0;
-	height: 110px;
+	padding: 40px 0 0 0;
+	height: 80px;
 	font-family: 'Open Sans', Arial, sans-serif;
 	text-shadow: 
 		0 0 1px #fff, 

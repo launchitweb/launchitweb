@@ -255,19 +255,19 @@ background-color: #20163b !important;
 
 .cs-dots > a > span {
     display: block;
-    width: 11px;
-    height: 11px;
+    width: 15px;
+    height: 15px;
     margin: 10px 7px;
     border: 2px solid #fff;
    /* border-radius: 50%;*/
     opacity: 0.8;
     -webkit-transition: background-color .2s;
     transition: background-color .2s;
-    box-shadow: 0 0 3px rgba(0, 0, 0, .4);
+    box-shadow: 0 0 3px rgba(0, 0, 0, .4);background:#fff;
 }
 
 .cs-dots > a:hover > span {
-    background-color: rgba(255, 255, 255, .3);
+    background-color:#fff;
 }
 
 .cs-dots > a.cs-dot-active > span {
