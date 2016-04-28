@@ -50,7 +50,7 @@ background-color: #20163b !important;
     top: 50%;
 }
 
-.second-slide-text{font-size:24px;font-weight:lighter;margin-top:8%;line-height:35px;font-family:calibri;}
+.second-slide-text{font-size:22px;font-weight:lighter;margin-top:6%;line-height:35px;font-family:calibri;}
 .color{color:#00b9c7;}
 
 
@@ -260,7 +260,7 @@ background-color: #20163b !important;
     margin: 10px 7px;
     border: 2px solid #fff;
    /* border-radius: 50%;*/
-    opacity: 0.8;
+    opacity:1;
     -webkit-transition: background-color .2s;
     transition: background-color .2s;
     box-shadow: 0 0 3px rgba(0, 0, 0, .4);background:#fff;
@@ -417,7 +417,7 @@ background-color: #20163b !important;
 
 /*description*/
 .cs-description {
-    padding: 50px 0 0 80px;
+    padding: 50px 0 0 0px;
     color: #fff;
     z-index: 1;
     font-size: 18px;

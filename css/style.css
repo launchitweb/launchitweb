@@ -68,7 +68,7 @@ h1, h2{
 
 
 .footer-bg{background:#282828;border-top:solid 1px #525151;}
-.desption{ padding: 95px 0 0 80px !important;}
+/*.desption{ padding: 95px 0 0 80px !important;}*/
 .dot-list-sliding{font-size:18px;padding:0px;margin:0px;/*list-style-image:url(../img/star.png)*/ font-family: calibri;padding-left: 13px;list-style-type:square;}
 
 /*header area*/
@@ -115,7 +115,7 @@ ul.nav{
 	padding: 0;
 }
 .navbar-default .navbar-nav>li>a {
- 	font-size: 16px;
+ 	font-size: 15px;
 	color: #000;
 	text-transform: uppercase;
 	transition: all .7s ease 0s;
@@ -141,7 +141,7 @@ li a.active{
 }
 
 .about-define{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:5%  !important;}
-.about-launch-smalltext{text-align:left;font-family:calibri;font-size:25px !important;color:#1c1c1c !important;line-height: 37px;}
+.about-launch-smalltext{text-align:left;font-family:calibri;font-size:23px !important;color:#1c1c1c !important;line-height: 32px;}
 .client-text-logo{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:6%  !important;}
 
 
@@ -156,7 +156,7 @@ li a.active{
 .client-sliding{margin-top:2%;margin-bottom:2%;}
 .lit-color{color:#fff !important;font-size:23px !important;}
 .contact-bg{background:#373737 !important;height:330px !important;}
-.contact-adds{margin:0px; padding:0px; font-family:calibri; color:#fff;font-size:22px;margin-top:5%;}
+.contact-adds{margin:0px; padding:0px; font-family:calibri; color:#fff;font-size:20px;margin-top:5%;}
 .contact-link a{color:#00b9c7; text-decoration:underline;}
 .contact-link a:hover{color:#00b9c7; text-decoration:none;}
 .reserved-text{font-size:16px; color:#838181;padding-top:5%;}
@@ -193,8 +193,8 @@ font-size: 30px !important;
 color: #fff !important;
 margin-top: 8% !important;}
 
-.testimonials{margin:0px;padding:0px; font-family:calibri;font-size:30px;font-style:italic;color:#fff;text-align:center;padding-top:10%;opacity:0.9;}
-.testmonial-small{margin:0px;padding:0px; font-family:calibri;font-size:24px;font-style:italic;color:#fff;text-align:center;padding-top:6%;opacity:0.9;}
+.testimonials{margin:0px;padding:0px; font-family:calibri;font-size:26px;font-style:italic;color:#fff;text-align:center;padding-top:10%;opacity:0.9;}
+.testmonial-small{margin:0px;padding:0px; font-family:calibri;font-size:20px;font-style:italic;color:#fff;text-align:center;padding-top:6%;opacity:0.9;}
 .service-view-text{font-family:calibri;font-size:12px;}
 .team-slide{margin-top:7%;}
 .what-important{text-align: left;font-family:rockwell;font-size: 28px !important;color: #fd8224 !important;}
@@ -222,7 +222,7 @@ margin-top: 8% !important;}
 .box-search{
  /* margin: 5px auto;*/
   width: 300px;
-  /*height: 50px;*/margin-top:18px;margin-bottom:5px;
+  /*height: 50px;*/margin-top:10px;margin-bottom:5px;
 }
 
 
@@ -481,10 +481,10 @@ margin-top: 8% !important;}
 
 
 
-.about-lit{background:url(../img/tealsquaresfade_up.jpg) no-repeat;height:311px;width:100%;padding-top:40px;	background-position: center ;
+.about-lit{background:url(../img/tealsquaresfade_up.jpg) no-repeat;height:311px;width:100%;padding-top:60px;	background-position: center ;
 background-color: #51d2e4 ;}
 .what-important-bg{background:url(../img/about-important-bg.jpg) no-repeat ;height:539px;background-position: center ;
-background-color: #b3b3b3 ;}
+background-color: #b3b3b3 ;padding-top:30px;}
 .what-main-image{margin:0px; padding:0px; height:197px;}
 .about-number-bg{margin:0px;padding:0px;background:url(../img/number-bg.jpg) no-repeat;height:447px;width:100%;background-position: center ;
 background-color: #433c36/*border-top: solid 50px #00b9c7;*/}
@@ -499,7 +499,7 @@ background-color: #433c36/*border-top: solid 50px #00b9c7;*/}
 .box4{margin:0px; padding:0px;width:20%;height:auto;float:left;}
 .box5{margin:0px; padding:0px;width:20%;height:auto;float:left;}
 .about-lit-center{text-align:center;font-size:60px;color: #fff;
-font-family: arial;}
+font-family: arial;font-weight:bold;}
 .about-office{margin:0px;padding:0px;font-size:16px;color:#00b9c7; text-align:center;text-transform:uppercase;font-family: calibri;
 font-weight: bold;}
 .about-office-small-text{margin:0px;padding:0px;font-size:14px;color:#f2efdf;text-align:center;font-family: calibri;padding-right: 10px;
@@ -664,7 +664,7 @@ background-color: #e9e9e9 ;}
 /*news section*/
 
 
-.news-bg{background:url(../img/news-bg.jpg) no-repeat ; height:483px;padding-top: 15px;background-position: center ;
+.news-bg{background:url(../img/news-bg.jpg) no-repeat ; height:483px;padding-top: 20px;background-position: center ;
 background-color: #1eb8c5 ;}
 
 
@@ -818,8 +818,8 @@ background-color: #1eb8c5 ;}
 			text-indent:-9999px;
 			opacity:0.9;
 			position:fixed;
-			bottom:47%;
-			right:13%;
+			bottom:46%;
+			right:10%;
 			display:none;			
 			background:url(../img/top-scroll.png) no-repeat;outline:none !important; clear:both;
 		}
