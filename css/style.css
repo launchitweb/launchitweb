@@ -506,7 +506,7 @@ font-weight: bold;}
 padding-left: 10px;}
 .team-bg{background:url(../img/team-bg.jpg) no-repeat;height:607px;width:100%;background-position: center ;
 background-color: #01c2cf ;}
-.services-text{text-align:left;font-family:rockwell;font-style:italic;font-size:29px !important;color:#fff !important;margin-top:4%  !important;margin-bottom:0px;}
+.services-text{text-align:left;font-family:rockwell;font-style:italic;font-size:29px !important;color:#fff !important;margin-top:4%  !important;margin-bottom:20px;}
 .service-smallone{text-align: left;font-family: calibri;font-size: 24px !important;color: #383838 !important;line-height: 38px;}
 
 .service-effect-text{color:#fff; font-family:calibri;font-style:italic;font-weight:bold;font-size:18px;}
