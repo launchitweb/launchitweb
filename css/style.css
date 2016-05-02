@@ -141,15 +141,21 @@ li a.active{
 }
 
 .about-define{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:5%  !important;}
-.about-launch-smalltext{text-align:left;font-family:calibri;font-size:23px !important;color:#1c1c1c !important;line-height: 32px;}
+.about-launch-smalltext{text-align:left;font-family:calibri;font-size:23px !important;color:#000 !important;line-height: 32px;margin-top:-14px;}
 .client-text-logo{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:6%  !important;}
 
+.service-link a{color:#fff;}
+.service-link a:hover{color:#fff;}
+.exprt-arrow{padding-left:10px;}
 
 
+.read-about{color:#fff; font-family:calibri;font-size:22px;margin-top:20px;}
+.read-aboutlink a{color:#1eb8c5; text-decoration:underline;}
+.read-aboutlink a:hover{color:#1eb8c5;text-decoration:none;}
 
 .itdefence-area{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:9%  !important;}
 .itdefence-smalltext{text-align:left;font-family:calibri;font-size:22px !important;color:#1c1c1c !important;}
-.links-launch a{text-decoration:underline; color:#383838 !important;font-weight:bold;}
+.links-launch a{text-decoration:underline; color:#000 !important;font-weight:bold;}
 .what-import-text{margin-top:5% !important;}
 .links-launch1 a{text-decoration:underline; color:#00b9c7 !important;font-weight:bold;}
 
@@ -206,9 +212,9 @@ margin-top: 8% !important;}
 
 .carousel-indicators li {
     display: inline-block;
-    width: 10px;
-    height: 10px;
-    margin: 1px;
+    width: 14px;
+    height: 14px;
+    margin: 7px;
     text-indent: -999px;
     cursor: pointer;
     background-color: #000;
@@ -1336,11 +1342,11 @@ padding-bottom: 0px;
 /* Changes the color of the indicators */
 #quote-carousel .carousel-indicators li 
 {
-  background:#fff;border:solid 4px #fff;
+  background:#fff;border:solid 6px #fff;
 }
 #quote-carousel .carousel-indicators .active 
 {
-  background:#00b9c7;border:solid 1px #00b9c7;
+  background:#00b9c7;border:solid 7px #00b9c7;margin:7px;width:10px;height:10px;
 }
 #quote-carousel img
 {
