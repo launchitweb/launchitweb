@@ -123,8 +123,8 @@ ul.nav{
 	-moz-transition: all .7s ease 0s;
 	-o-transition: all .7s ease 0s;
 	-ms-transition: all .7s ease 0s;
-	padding: 14px 5px;
-	font-weight: bold;font-family:calibri;
+	padding: 14px 3px;
+	font-weight: bold;font-family:calibri;outline:none;
 }
 .navbar-default .navbar-nav>li>a:hover{
 	color: #999;
@@ -140,12 +140,12 @@ li a.active{
   margin-top: 4px;
 }
 
-.line-color{color:#fd8224;padding-left:9px;}
+.line-color{color:#fd8224;padding-left:7px;}
 
 
 .about-define{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:5%  !important;}
 .about-launch-smalltext{text-align:left;font-family:calibri;font-size:23px !important;color:#000 !important;line-height: 32px;margin-top:-14px;}
-.client-text-logo{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:6%  !important;}
+.client-text-logo{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:8%  !important;}
 
 .service-link a{color:#fff;}
 .service-link a:hover{color:#fff;}
@@ -226,7 +226,7 @@ margin-top: 8% !important;}
     border-radius:0px;
 }
 
-.search-filter{margin-left:50%;}
+.search-filter{margin-left:51%;}
 
 .box-search{
  /* margin: 5px auto;*/

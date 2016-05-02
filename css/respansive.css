@@ -32,7 +32,7 @@ and (max-device-width : 480px) {
 .contact-bg{height:auto !important;}
 .contact-adds{text-align:center;}
 .socialbtns, .socialbtns ul, .socialbtns li{float:none;}
-.search-filter{margin-left:0px;}
+.search-filter{margin-left:9px;}
 .second-slide-text{font-size:20px;line-height:25px;padding-top:30%;}
 .contact-info h3{text-align:center;}
 .contact-form h3{text-align:center;}
@@ -77,7 +77,7 @@ and (max-device-width : 640px) {
 .footer p{text-align:center;}
 .contact-adds{text-align:center;}
 .socialbtns, .socialbtns ul, .socialbtns li{float:none;}
-
+.search-filter{margin-left:46% !important;}
 }
 
 @media only screen 
@@ -136,6 +136,8 @@ and (orientation : landscape) {
 .service-bg{background:#dc6f21;height:auto;}
 
 
+
+
 }
 
 /* iPads (portrait) ----------- */
@@ -167,6 +169,9 @@ and (orientation : portrait) {
 .event-news{text-align:center;}
 .event-small-text{text-align:center;padding:10px;}
 .contact-bg{height:auto !important;}
+.client-text-logo{text-align:center;}
+.itdefence-area{text-align:center;}
+
 }
 
 /* Desktops and laptops ----------- */
