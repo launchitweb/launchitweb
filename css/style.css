@@ -123,7 +123,7 @@ ul.nav{
 	-moz-transition: all .7s ease 0s;
 	-o-transition: all .7s ease 0s;
 	-ms-transition: all .7s ease 0s;
-	padding: 14px 11px;
+	padding: 14px 5px;
 	font-weight: bold;font-family:calibri;
 }
 .navbar-default .navbar-nav>li>a:hover{
@@ -139,6 +139,9 @@ li a.active{
   border-color: #fff;
   margin-top: 4px;
 }
+
+.line-color{color:#fd8224;padding-left:9px;}
+
 
 .about-define{text-align:left;font-family:Rockwell;font-size:28px !important;color:#fd8224 !important;margin-top:5%  !important;}
 .about-launch-smalltext{text-align:left;font-family:calibri;font-size:23px !important;color:#000 !important;line-height: 32px;margin-top:-14px;}
