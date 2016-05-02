@@ -1394,9 +1394,9 @@ padding-bottom: 0px;
     
     /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
     
-    #quote-carousel .carousel-indicators {
+  /*  #quote-carousel .carousel-indicators {
         bottom: -20px !important;  
-    }
+    }*/
     #quote-carousel .carousel-indicators li {
         display: inline-block;
         margin: 0px 5px;

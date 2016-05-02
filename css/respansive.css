@@ -40,6 +40,12 @@ and (max-device-width : 480px) {
 .elastislide-horizontal {
     padding: 10px 69px !important;
 }
+ #quote-carousel .carousel-indicators {
+        bottom: -20px !important;  
+    }
+
+
+
 
 }
 
