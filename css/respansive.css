@@ -44,7 +44,8 @@ and (max-device-width : 480px) {
         bottom: -20px !important;  
     }
 
-
+.navbar-form{border-top:none;}
+.box-search{margin-top:-8px;}
 
 
 }
@@ -84,6 +85,8 @@ and (max-device-width : 640px) {
 .contact-adds{text-align:center;}
 .socialbtns, .socialbtns ul, .socialbtns li{float:none;}
 .search-filter{margin-left:46% !important;}
+.navbar-form{border-top:none;}
+.box-search{margin-top:-8px;}
 }
 
 @media only screen 

@@ -231,7 +231,7 @@ margin-top: 8% !important;}
 .box-search{
  /* margin: 5px auto;*/
   width: 300px;
-  /*height: 50px;*/margin-top:10px;margin-bottom:5px;
+  /*height: 50px;*/margin-top:15px;margin-bottom:0px;
 }
 
 
@@ -251,7 +251,7 @@ margin-top: 8% !important;}
   font-size: 10pt;
   float: left;
 	color: #373737;
-  padding-left: 15px;
+  padding-left: 7px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -1084,7 +1084,7 @@ responsive area
 @media (min-width: 992px) and (max-width: 1199px) {
 	.navbar-default .navbar-nav>li>a {
 	  font-size: 16px;
-	  padding: 14px 12px;
+	  padding: 14px 2px;
 	}
 	.carousel-caption h1 {
   		font-size: 120px;
@@ -1116,7 +1116,7 @@ responsive area
 @media (min-width: 768px) and (max-width: 991px) {
 	.navbar-default .navbar-nav>li>a {
 	  font-size: 16px;
-	  padding: 10px 8px;
+	  padding: 10px 2px;
 	}
 	.carousel-caption h1 {
   		font-size: 90px;
@@ -1205,12 +1205,12 @@ responsive area
 	  margin: 20px 10px;
 	}
 	.header-logo{
-		margin-top: 20px !important;
+		margin-top: 0px !important;
 	}
 	.navbar-default .navbar-toggle {
 		 border-color: #fff;
-		 margin-top: -7px;
-		 right: 10%;
+		 margin-top: 10px;
+		 right: 0%;
 	}
 	.navbar-default .navbar-nav>li>a {
 	  font-size: 16px;
