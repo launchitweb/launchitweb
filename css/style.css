@@ -20,7 +20,7 @@ body {
 	position:relative;
 	margin: 0;
 	padding:0;
-	font-family:Rockwell !important;
+	font-family: 'Roboto', sans-serif;
 	font-weight:300;
 	font-size: 13px;
 	line-height: 20px;
@@ -2300,12 +2300,7 @@ input[type="color"]:focus {
 
 @media (max-width: 767px) {
 	
-		.about-define {
-   
-    font-family: Rockwell !important;
-   
-    
-}
+	
 	.read-about{font-size:18px !important}
 	.container {padding-left:15px; padding-right:15px;}
 	.about_block{background:#00b9c7 !important;}
@@ -2446,14 +2441,6 @@ input[type="color"]:focus {
 }
 
 @media (max-width: 479px) {
-	
-	
-	.about-define {
-   
-    font-family: Rockwell !important;
-   
-    
-}
 
 	#search-form {display:none;}
 	
