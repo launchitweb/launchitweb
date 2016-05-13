@@ -2300,7 +2300,12 @@ input[type="color"]:focus {
 
 @media (max-width: 767px) {
 	
-	
+		.about-define {
+   
+    font-family: Rockwell !important;
+   
+    
+}
 	.read-about{font-size:18px !important}
 	.container {padding-left:15px; padding-right:15px;}
 	.about_block{background:#00b9c7 !important;}
