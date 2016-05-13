@@ -81,7 +81,18 @@ body {
 
 
 
-
+.scrollup{
+			width:73px;
+			height:74px;			
+			text-indent:-9999px;
+			opacity:0.9;
+			position:fixed;
+			bottom:48%;
+			right:10%;
+			display:none;			
+			background:url(../images/top-scroll.png) no-repeat;outline:none !important; clear:both;z-index:9999;
+		}
+		
 
 
 
