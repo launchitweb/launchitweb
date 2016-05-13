@@ -2441,6 +2441,14 @@ input[type="color"]:focus {
 }
 
 @media (max-width: 479px) {
+	
+	
+	.about-define {
+   
+    font-family: Rockwell !important;
+   
+    
+}
 
 	#search-form {display:none;}
 	
